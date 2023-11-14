@@ -1176,13 +1176,14 @@ ol {
 
 .footer__copyright__text {
 	text-align: center;
+	padding-left:5%;
 	display: flex;
 	justify-content: space-around;
 }
 
 .footer__copyright__text p {
 	color: #999999;
-	margin-left: 20%;
+	margin-left: 90%;
 }
 
 .footer__copyright__text a {
